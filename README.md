@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there👋, I'm Zulkar
+<br>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+<br>
 
-<!--
-**Zulkar-Jahin/Zulkar-Jahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <h3>Profile Views </h3> 
+  <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=FC9F26&style=flat" alt="profile-views" /> 
+</p>
+<br>
 
-Here are some ideas to get you started:
+<p><img align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Py6elP0J1ea9YTca" alt="zulkar-jahin-amination" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Graduated from [Ahsanullah University of Science and Technology](https://aust.edu/).
+- 🌀 Reach me through [email](mailto:zulkar.jahin@gmail.com).
+<br>
