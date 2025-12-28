@@ -5,8 +5,7 @@
 </p>
 <br>
 
-<p align="center"> 
-  <h3>Profile Views </h3> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=FC9F26&style=flat" alt="profile-views" /> 
 </p>
 <br>
