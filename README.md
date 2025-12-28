@@ -10,7 +10,7 @@
 </p>
 <br>
 
-<p><img align="right" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Py6elP0J1ea9YTca" alt="zulkar-jahin-amination" /></p>
+<p><img align="right" src="https://cdn.dribbble.com/userupload/29241623/file/original-8e2c92eff5416be8db70f236727bfacb.gif" alt="zulkar-jahin-amination" /></p>
 
 - ✅ Graduated from [Ahsanullah University of Science and Technology](https://aust.edu/).
 - 🌀 Reach me through [email](mailto:zulkar.jahin@gmail.com).
