@@ -5,6 +5,13 @@
 </p>
 <br>
 
+---
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=noyonAli1&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=FC9F26&style=flat" alt="profile-views" /> 
 </p>
