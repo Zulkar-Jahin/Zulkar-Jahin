@@ -8,7 +8,7 @@
 ---
 # 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=noyonAli1&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Zulkar-Jahin&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 
