@@ -11,6 +11,10 @@
 <img src="https://streak-stats.demolab.com?user=Zulkar-Jahin&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
+---
+# 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zulkar-Jahin\&theme=tokyo-night)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=FC9F26&style=flat" alt="profile-views" /> 
