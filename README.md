@@ -13,8 +13,8 @@
 
 ---
 # 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zulkar-Jahin\&theme=tokyo-night)
-![Streak](https://streak-stats.demolab.com/?user=Zulkar-Jahin&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zulkar-Jahin&theme=tokyo-night)
+
 
 
 <p align="center">
