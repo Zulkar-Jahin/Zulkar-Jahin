@@ -15,7 +15,7 @@
 # 📈 Contribution Graph
 [![Zulkar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zulkar-Jahin&theme=tokyo-night)](https://github.com/Zulkar-Jahin/github-readme-activity-graph)
 
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=F54926&style=flat" alt="profile-views" /> 
 </p>
