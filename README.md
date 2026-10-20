@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=FC9F26&style=flat" alt="profile-views" /> 
+  <img src="https://komarev.com/ghpvc/?username=zulkar-jahin&label=Profile%20views&color=F54926&style=flat" alt="profile-views" /> 
 </p>
 <br>
 
